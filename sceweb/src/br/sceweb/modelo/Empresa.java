@@ -86,7 +86,7 @@ public class Empresa {
 	    }
 	}
 	public String getNomeDaEmpresa() {
-		return nomeDaEmpresa;
+		return nomeDaEmpresa; 
 	}
 	public void setNomeDaEmpresa(String nomeDaEmpresa) {
 		if (nomeDaEmpresa.equals("")){
